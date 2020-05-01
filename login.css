@@ -1,0 +1,125 @@
+
+.btn {
+    background-color: #00a1b2;
+}
+
+.btn:hover {
+    background-color: #00a1b2;
+}
+
+a {
+    background-color: #00a1b2;
+    color: white;
+}
+
+a:hover {
+    background-color: #00a1b2;
+    color: white;
+}
+
+a:visited {
+    background-color: #00a1b2;
+    color: white;
+}
+
+a:active {
+    background-color: #00a1b2;
+    color: white;
+}
+
+#forgot-pass {
+    background-color: white;
+    color: #00a1b2;
+    text-decoration: none;
+}
+
+#forgot-pass:hover {
+    background-color: white;
+    color: #00a1b2;
+    text-decoration: none;
+}
+
+#pills-signin-tab {
+    background-color: #00a1b2;
+    color: white;
+    margin-right: 5px;
+}
+
+#pills-signin-tab:hover {
+    background-color: #00a1b2;
+    color: white;
+}
+
+#pills-signup-tab {
+    background-color: #00a1b2;
+    color: white;
+}
+
+#pills-signup-tab:hover {
+    background-color: #00a1b2;
+    color: white;
+}
+
+#pills-signup-tab:active {
+    background-color: #00a1b2;
+    color: white;
+}
+
+#pills-signup-tab:visited {
+    background-color: #00a1b2;
+    color: white;
+}
+
+.form-control {
+    height: 45px;
+}
+
+
+#datetimepicker4 {
+    width: 680px;
+
+}
+
+.datetimepicker-input {
+    width: 500px;
+}
+
+.custom-checkbox {
+    margin-left: 5px;
+}
+
+#remember-button::after {
+    background-color: #00a1b2;
+}
+
+.alert {
+    text-align: center;
+     margin-right: 200px;
+     margin-left: 200px;
+    border-style: ridge;
+    height: 70px;
+}
+/* Small devices (landscape phones, 544px and up) */
+@media (min-width: 360px) {  
+    .alert {
+        text-align: center;
+         margin-right: 50px;
+         margin-left:50px;
+        border-style: ridge;
+         
+         
+    }
+    #alert{
+
+        font-size: 10pt;
+        margin: 10px;
+    }
+    
+    #datetimepicker4{
+    width: 100%;
+}
+
+
+
+
+}
